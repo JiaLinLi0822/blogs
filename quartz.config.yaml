@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Jialin's Blog
+  pageTitle: Jialin's Blogs
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true

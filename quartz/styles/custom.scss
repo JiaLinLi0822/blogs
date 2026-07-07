@@ -2,37 +2,6 @@
 
 // put your custom CSS here!
 
-.global-home-button {
-  position: fixed;
-  top: 1rem;
-  right: 1rem;
-  z-index: 1000;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3rem;
-  padding: 0.4rem 0.9rem;
-  border-radius: 6px;
-  background-color: var(--secondary);
-  color: var(--light) !important;
-  font-size: 0.85rem;
-  font-weight: 600;
-  text-decoration: none;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
-  transition:
-    background-color 0.2s ease,
-    transform 0.1s ease;
-
-  &:hover {
-    background-color: var(--tertiary);
-    transform: translateY(-1px);
-  }
-
-  @media all and ($mobile) {
-    font-size: 0.75rem;
-    padding: 0.3rem 0.7rem;
-  }
-}
-
 .home-button {
   display: inline-flex;
   align-items: center;
