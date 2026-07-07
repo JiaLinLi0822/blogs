@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Jiali's Blog
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -203,10 +203,10 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: TODO:username/repo-name
-        repoId: TODO:your-repo-id
+        repo: jialinli0822/blogs
+        repoId: R_kgDONz7O4A
         category: Announcements
-        categoryId: TODO:your-category-id
+        categoryId: DIC_kwDONz7O4M4CKRkP
         mapping: url
         strict: true
         reactionsEnabled: true
